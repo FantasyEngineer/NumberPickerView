@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://C:\Users\Administrator\Desktop\NumberPickerView-master\NumberPickerView.iml" filepath="C:\Users\Administrator\Desktop\NumberPickerView-master\NumberPickerView.iml" />
+      <module fileurl="file://$PROJECT_DIR$/NumberPickerView-master.iml" filepath="$PROJECT_DIR$/NumberPickerView-master.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://C:\Users\Administrator\Desktop\NumberPickerView-master\app\app.iml" filepath="C:\Users\Administrator\Desktop\NumberPickerView-master\app\app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/library/library.iml" filepath="$PROJECT_DIR$/library/library.iml" />
+      <module fileurl="file://C:\Users\Administrator\Desktop\NumberPickerView-master\library\library.iml" filepath="C:\Users\Administrator\Desktop\NumberPickerView-master\library\library.iml" />
+    </modules>
+  </component>
+</project>
